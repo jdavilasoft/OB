@@ -8,6 +8,6 @@ public class ParteUno {
 	}
 
 	private static int sumaNumeros(int x, int y, int z) {
-		return x + y + z;
+		return x + y + z + 40;
 	}
 }
