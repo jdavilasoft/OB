@@ -18,5 +18,4 @@ public class Coche {
 	public String toString() {
 		return "El coche, tiene " + this.numPuertas + " puertas";
 	}
-	
 }
